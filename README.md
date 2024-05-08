@@ -39,7 +39,7 @@
     <h3>Editors:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,sublime" />
     <h3>Languages and frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,flask,django,webstorm,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,flask,django,webstorm,css,html,pycharm" />
   
 </div>
 
