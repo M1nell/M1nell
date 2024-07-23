@@ -48,15 +48,7 @@
 
 <h2 align="center">⚡My Stats⚡</h2>
 <div align=center>
-  <br>
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M1nell&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a> -->
-  </br>
-  <br>
-  <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=M1nell&theme=dark&show_icons=true"/>
-  </br>
-  <br>
   <img alt="My most popular languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1nell&layout=compact&theme=dark"/>
-  </br>
 </div>
 <br/>
 
