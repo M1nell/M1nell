@@ -3,14 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😀✋;+I'm+M1nell!;" />
 </h1>
 
-<h3 align="center">Usual student from Russia 🌎</h3>
+<h3 align="center">Usuall student from... where? 🌎</h3>
 
 <br/>
 
 <div align="center">
- 🏃‍♂️ Currently I'm studying in the high school
-  
-  👨‍🎓 My goal for now is to get a BSE (Bachelor of Software Engineering)
       
   My contacts 👇
 
@@ -37,9 +34,9 @@
     <h3>Operating systems</h3>
     <img src="https://skillicons.dev/icons?i=arch,ubuntu,debian,windows" />
     <h3>Editors:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,sublime" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,sublime,webstorm" />
     <h3>Languages and frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,flask,django,webstorm,css,html,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,flask,django,css,html" />
   
 </div>
 
